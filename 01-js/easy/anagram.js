@@ -5,7 +5,8 @@
 */
 
 function isAnagram(str1, str2) {
-
+  hm1={}
+  hm2={}
 }
 
 module.exports = isAnagram;
